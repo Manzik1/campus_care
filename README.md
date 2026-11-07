@@ -53,7 +53,7 @@ Staff access is controlled through authorized user roles stored in Firestore.
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   https://github.com/Manzik1/campus_care
    ```
 
 2. Open the project folder:
